@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/imshrak/mm2/refs/heads/main/rattex"))()
+loadstring(game:HttpGet("https://github.com/SodiumIDE/MM2/raw/refs/heads/main/1"))()
+loadstring(game:HttpGet("https://github.com/SodiumIDE/MM2/raw/refs/heads/main/2"))()
